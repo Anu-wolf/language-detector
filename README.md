@@ -40,6 +40,9 @@ Future Improvements
 Expanding the dataset to include more languages and larger text.
 Improving accuracy by using advanced models like Neural Networks.
 Implementing a web interface for ease of user.
+Improve model accuracy with more diverse datasets.
+Add support for detecting multiple languages in a single input (e.g., code-switching).
+Integrate with translation APIs to offer translation services.
 
 Integration into a Web Project
 To integrate this model into a web application, follow these steps:
